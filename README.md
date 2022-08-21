@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ron-cf
 - 👀 I’m interested in Programming Languages
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects using Python language
 - 📫 How to reach me ...
 
 <!---
