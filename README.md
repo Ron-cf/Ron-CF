@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming Languages
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects using Python language
+- I also develop using JavaScript, when creating pages with HTML and CSS
 - 📫 How to reach me ...
 
 <!---
